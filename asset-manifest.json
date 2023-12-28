@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/portofolio/static/css/main.834697cc.css",
-    "main.js": "/portofolio/static/js/main.516ba6f6.js",
+    "main.css": "/portofolio/static/css/main.8a529aae.css",
+    "main.js": "/portofolio/static/js/main.9d5e25eb.js",
     "static/js/787.0163084b.chunk.js": "/portofolio/static/js/787.0163084b.chunk.js",
-    "static/media/warung.jpg": "/portofolio/static/media/warung.189d7e5251f964a73538.jpg",
-    "static/media/karyawan.jpg": "/portofolio/static/media/karyawan.4ff66da1a2bd817957b9.jpg",
     "static/media/berita.png": "/portofolio/static/media/berita.81171b91ac4fd765f20f.png",
-    "static/media/mini.png": "/portofolio/static/media/mini.c3755b04642b74e61bb7.png",
     "static/media/react.png": "/portofolio/static/media/react.2f2532db663fd5ec5f95.png",
     "static/media/js.png": "/portofolio/static/media/js.e087754771abd3526937.png",
     "static/media/tailwind.png": "/portofolio/static/media/tailwind.d5abcf62e57cbbee357e.png",
+    "static/media/Screenshot_39.jpg": "/portofolio/static/media/Screenshot_39.2d20a1487ea9f9f10568.jpg",
     "static/media/photo.png": "/portofolio/static/media/photo.25fcdb4fb0de56626bd9.png",
     "static/media/hijabshop.jpg": "/portofolio/static/media/hijabshop.5c1bffb90be832194174.jpg",
+    "static/media/walpaper.jpg": "/portofolio/static/media/walpaper.452b011b02988456b874.jpg",
     "static/media/api.png": "/portofolio/static/media/api.10b38baa8f6c8d0e4722.png",
     "static/media/node.png": "/portofolio/static/media/node.85fedea58efe86438f00.png",
     "static/media/bootstrap.png": "/portofolio/static/media/bootstrap.9016c575b3cb32b2e85c.png",
@@ -21,12 +20,12 @@
     "static/media/mysql.png": "/portofolio/static/media/mysql.4676ad983d6bd3e9fac9.png",
     "static/media/logo.svg": "/portofolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portofolio/index.html",
-    "main.834697cc.css.map": "/portofolio/static/css/main.834697cc.css.map",
-    "main.516ba6f6.js.map": "/portofolio/static/js/main.516ba6f6.js.map",
+    "main.8a529aae.css.map": "/portofolio/static/css/main.8a529aae.css.map",
+    "main.9d5e25eb.js.map": "/portofolio/static/js/main.9d5e25eb.js.map",
     "787.0163084b.chunk.js.map": "/portofolio/static/js/787.0163084b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.834697cc.css",
-    "static/js/main.516ba6f6.js"
+    "static/css/main.8a529aae.css",
+    "static/js/main.9d5e25eb.js"
   ]
 }
